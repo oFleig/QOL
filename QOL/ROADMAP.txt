@@ -1,0 +1,7 @@
+- HP DISPLAY - Programmer Accurate HP - Label Color Based On HP
+- SADNESS DISPLAY
+- WHIFF MARKER
+- PRORATION ON HIT - Show Only On First Hit
+- GUTS MARKERS
+- VELOCITY
+- DAMAGE REDUCTION

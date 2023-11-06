@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="P1HealthAmount" type="Label"]
+unique_name_in_owner = true
+margin_left = 5.0
+margin_right = 100.0
+margin_bottom = 11.0

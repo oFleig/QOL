@@ -1,0 +1,15 @@
+{
+  "author": "Fleig",
+  "client_side": true,
+  "description": "Quality of life changes that aims to provide additional info and add minor tweaks in several visual elements of the game.",
+  "friendly_name": "Quality Of Life",
+  "id": "12345",
+  "link": "",
+  "name": "qol",
+  "overwrites": false,
+  "priority": -1000,
+  "requires": [
+    ""
+  ],
+  "version": "1.5"
+}
