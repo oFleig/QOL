@@ -1,11 +1,12 @@
-# QOL
-YOMIH Mod that displays competitive info + minor tweaks to the UI
+#QOL
+Quality of life changes that aims to provide additional competitive info to the game and minor UI tweaks
 
-# ROADMAP
-- HP DISPLAY - Programmer Accurate HP - Label Color Based On HP - ✅
-- SADNESS DISPLAY - ✅
-- WHIFF MARKER - MAKE TOGGLE - MAKE IVY-PROOF❗️
-- PRORATION ON HIT - Show Only On First Hit -✅
-- GUTS MARKERS - MAKE IVY PROOF❗️
+#Features
+Adds the following options (All on by default if you dont have mod options, all can be turned off with mod options):
 
-IVY PROOF = Won't break on game updates / searches the values from the game instead of being hand-made.
+- HP OPTIONS
+- SADNESS OPTIONS
+- MISC OPTIONS (like proration, whiff line on burst, etc)
+- WIN SCREEN OPTIONS
+- ZOOM IN AND OUT WITH THE KEYPAD'S + AND -
+- AUTO REJECT MATCH REQUESTS (button is above the match settings)

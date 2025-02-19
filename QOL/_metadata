@@ -7,9 +7,9 @@
   "link": "",
   "name": "qol",
   "overwrites": false,
-  "priority": -1000,
+  "priority": 1,
   "requires": [
     ""
   ],
-  "version": "1.5"
+  "version": "1.20"
 }
