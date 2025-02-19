@@ -1,7 +1,7 @@
-#QOL
+# QOL
 Quality of life changes that aims to provide additional competitive info to the game and minor UI tweaks
 
-#Features
+# Features
 Adds the following options (All on by default if you dont have mod options, all can be turned off with mod options):
 
 - HP OPTIONS
